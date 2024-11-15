@@ -1,0 +1,14 @@
+footer {
+    margin-top: 280px !important;
+}
+.footerIcon {
+    border: 1px solid white;
+    padding: 7px;
+    margin: 3px;
+    font-size: 8px;
+}
+.homeFooter {
+    position: absolute;
+    top: 0;
+    transform: translateY(-50%);
+}
